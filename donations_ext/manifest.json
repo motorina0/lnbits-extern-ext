@@ -1,0 +1,7 @@
+{
+    "name": "Donations",
+    "id": "donations",
+    "permissions": ["read", "admin"],
+    "icon": "volunteer_activism",
+    "description": "Receive donations onchain"
+}
